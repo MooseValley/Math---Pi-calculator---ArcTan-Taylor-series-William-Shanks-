@@ -8,7 +8,15 @@ My code / solution to calculate Pi using the ArcTan Taylor series expansion, as 
 <pre>
 Pi = 16 arctan (1/5) - 4 arctan (1/239)
 
-arctan (1/x) = 1/x - 1/3x^3 + 1/5x^5 - 1/7x^7 + 1/9x^9 - .....
+Taylor Series:
+	arctan (1/x) = 1/x - 1/3x^3 + 1/5x^5 - 1/7x^7 + 1/9x^9 - .....
+
+
+After 10 terms, Pi is correct to 14 decimal places.
+   3.14159265358979...
+
+After 20 terms, Pi is correct to 29 decimal places.
+   3.14159265358979323846264338327...
 </pre>
 
 
